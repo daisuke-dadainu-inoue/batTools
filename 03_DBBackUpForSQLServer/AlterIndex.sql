@@ -1,0 +1,4 @@
+USE TEST; 
+GO 
+
+ALTER INDEX ALL ON TestTable REBUILD;
